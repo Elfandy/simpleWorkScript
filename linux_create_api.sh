@@ -115,4 +115,13 @@ ipAddr=$(hostname -I | awk '{print $1}' )
 
 echo "your ip address is : $ipAddr"
 
-
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo "enter any key to exit:"
+read -r d
